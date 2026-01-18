@@ -1,0 +1,6 @@
+You: hi
+Bot: Hello! How can I help you today?
+You: what is ai?
+Bot: Artificial Intelligence is the simulation of human intelligence in machines.
+You: bye
+Bot: Goodbye! Have a nice day.
